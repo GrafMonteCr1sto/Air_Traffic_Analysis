@@ -1,0 +1,19 @@
+flight_date,passengers_count,departure_city,arrival_city,temperature,holiday,weekday,gdp,inflation,avg_ticket_price
+2024-01-10,200,Moscow,New York,-5.0,0.0,3.0,,,450.0
+2024-01-10,150,Moscow,Paris,-3.0,0.0,3.0,,,380.0
+2024-01-11,180,Moscow,London,,,,,,410.0
+2024-01-12,120,Moscow,Frankfurt,,,,,,350.0
+2024-01-13,100,Saint Petersburg,New York,,,,,,500.0
+2024-02-01,220,Moscow,Seattle,-6.0,0.0,4.0,1.9,2.4,470.0
+2024-02-02,210,Moscow,Tokyo,-7.0,0.0,5.0,1.87,2.6,490.0
+2024-02-03,160,Moscow,Sydney,,,,1.92,2.5,460.0
+2024-02-04,250,Moscow,Dubai,,,,1.94,2.3,440.0
+2024-02-05,200,Saint Petersburg,Amsterdam,,,,1.9,2.2,520.0
+2024-02-06,180,Paris,Los Angeles,,,,1.91,2.1,480.0
+2024-02-07,170,New York,Bangkok,,,,1.93,2.0,510.0
+2024-02-08,190,Istanbul,Beijing,,,,1.95,1.9,530.0
+2024-02-09,210,Hong Kong,Singapore,19.0,0.0,5.0,1.96,1.8,540.0
+2024-02-10,230,Seoul,Mexico City,6.0,0.0,6.0,1.97,1.7,550.0
+2024-02-11,240,Beijing,Hong Kong,,,,1.98,1.6,560.0
+2024-02-12,220,Singapore,Seoul,,,,,,570.0
+2024-02-13,200,Mexico City,Istanbul,,,,,,580.0
